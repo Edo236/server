@@ -37,13 +37,5 @@
   "destinatario": "Elon Musk",
   "mittente": "Putin",
   "prezzo": 3
-},
-{
-  "numeroOrdine": 6,
-  "oggetto": "Porche carrera",
-  "data": "2023-03-28T11:59:27.494+02:00",
-  "destinatario": "Mario",
-  "mittente": "Papa Francesco",
-  "prezzo": 567888.99
 }
 ]
