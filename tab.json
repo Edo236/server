@@ -1,0 +1,49 @@
+[{
+  "numeroOrdine": 1,
+  "oggetto": "banana",
+  "data": "2023-03-27T11:33:03.539+02:00",
+  "destinatario": "pippo",
+  "mittente": "paperino",
+  "prezzo": 420.69
+},
+{
+  "numeroOrdine": 2,
+  "oggetto": "pera",
+  "data": "2023-03-28T11:55:59.071+02:00",
+  "destinatario": "topolino",
+  "mittente": "homer simpson",
+  "prezzo": 666.99
+},
+{
+  "numeroOrdine": 3,
+  "oggetto": "mela",
+  "data": "2023-03-28T11:57:06.937+02:00",
+  "destinatario": "Okereke",
+  "mittente": "Success",
+  "prezzo": 20.99
+},
+{
+  "numeroOrdine": 4,
+  "oggetto": "iPad",
+  "data": "2023-03-28T11:58:01.071+02:00",
+  "destinatario": "Steve jobs",
+  "mittente": "Franco",
+  "prezzo": 35.87
+},
+{
+  "numeroOrdine": 5,
+  "oggetto": "missile",
+  "data": "2023-03-28T11:58:34.009+02:00",
+  "destinatario": "Elon Musk",
+  "mittente": "Putin",
+  "prezzo": 3
+},
+{
+  "numeroOrdine": 6,
+  "oggetto": "Porche carrera",
+  "data": "2023-03-28T11:59:27.494+02:00",
+  "destinatario": "Mario",
+  "mittente": "Papa Francesco",
+  "prezzo": 567888.99
+}
+]
